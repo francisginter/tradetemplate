@@ -4,7 +4,7 @@ date: 2020-05-08 02:51:00 Z
 tags:
 - github
 post_image: https://filedn.com/lOc9bPWrQEx0lHKn8ksh5df/Images/post2.jpg
-layout: default
+layout: post
 ---
 
 # [![CouchCMS](https://www.couchcms.com/img/logo.png "CouchCMS")](https://www.couchcms.com/)
