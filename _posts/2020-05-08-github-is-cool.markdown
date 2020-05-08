@@ -7,6 +7,4 @@ Image: "/uploads/infode_logo_circle_green_lettering.png"
 layout: post
 ---
 
-## GITHUB IS COOL
-
-![infode_logo_circle_green_lettering.png](/uploads/infode_logo_circle_green_lettering.png)
+## GREENGRASS
