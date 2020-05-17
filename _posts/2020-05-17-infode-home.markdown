@@ -2,6 +2,7 @@
 title: INFODE HOME
 date: 2020-05-17 11:53:00 Z
 post_image: "/uploads/Tip.jpg"
+layout: post
 ---
 
 <!doctype html> 
